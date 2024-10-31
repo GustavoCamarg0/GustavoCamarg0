@@ -1,33 +1,33 @@
 # Gustavo da Silva Camargo
 
-Olá! 👋 Sou Gustavo, desenvolvedor com foco em **Java** e **programação web**, apaixonado por resolver problemas complexos e em constante busca por novas habilidades e conhecimentos.
+Hello! 👋 I'm Gustavo, a developer focused on **Java** and **web programming**, passionate about solving complex problems and always seeking new skills and knowledge.
 
-### Sobre Mim
+## About Me
 
-- 🎓 **Formação**: Técnico em Informática pelo Cedup HH e atualmente cursando Análise e Desenvolvimento de Sistemas na UniSENAI (2º semestre).
-- 🧑‍💻 **Experiência**: Desenvolvedor Java para web em uma empresa local.
-- 🌐 **Habilidades**:
-  - Linguagens: **Java**, **Node.js**
-  - Web: **HTML/CSS**, **JavaScript**
-  - Idiomas: Inglês avançado e espanhol intermediário
-- 🏆 **Projetos**:
-  - **TCC** no Cedup HH
-  - Desenvolvimento Java para web na minha atual posição
+- 🎓 **Education**: Technician in Informatics from Cedup HH, currently studying Systems Analysis and Development at UniSENAI (2nd semester).
+- 🧑‍💻 **Experience**: Java web developer at a local company.
+- 🌐 **Skills**:
+  - Languages: **Java**, **Node.js**
+  - Web: **HTML/CSS**, **JavaScript**, **React.js**
+  - Languages: Advanced English and intermediate Spanish
+- 🏆 **Projects**:
+  - **Final Project** at Cedup HH
+  - Java development for web in my current role
 
-### Objetivos
+## Goals
 
-📈 Busco aumentar minha senioridade na área e evoluir para atuar com **Node.js**, além de fortalecer meu conhecimento em desenvolvimento full-stack.
+📈 I aim to advance my expertise in the field and expand into **Node.js**, while strengthening my full-stack development knowledge.
 
-### Interesses
+## Interests
 
-- 💼 Investimentos: ETF e criptomoedas
-- 🏋️ Vida saudável: Academia e vôlei
+- 💼 Investments: ETFs and cryptocurrencies
+- 🏋️ Healthy living: Gym and volleyball
 
-### Contato
+## Contact
 
-📧 E-mail: [GustavoCamargobn7@gmail.com](mailto:GustavoCamargobn7@gmail.com)  
+📧 Email: [GustavoCamargobn7@gmail.com](mailto:GustavoCamargobn7@gmail.com)  
 🔗 LinkedIn: [Gustavo da Silva Camargo](https://www.linkedin.com/in/gustavo-da-silva-camargo/)
 
 ---
 
-> "_O que sabemos é uma gota; o que ignoramos é um oceano._" – Isaac Newton
+> "_What we know is a drop; what we don’t know is an ocean._" – Isaac Newton
