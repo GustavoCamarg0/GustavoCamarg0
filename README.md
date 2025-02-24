@@ -18,11 +18,6 @@ Hello! 👋 I'm Gustavo, a developer focused on **Java** and **web programming**
 
 📈 I aim to advance my expertise in the field and expand into **Node.js**, while strengthening my full-stack development knowledge.
 
-## Interests
-
-- 💼 Investments: ETFs and cryptocurrencies
-- 🏋️ Healthy living: Gym and volleyball
-
 ## Contact
 
 📧 Email: [GustavoCamargobn7@gmail.com](mailto:GustavoCamargobn7@gmail.com)  
