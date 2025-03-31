@@ -7,7 +7,7 @@ Hello! 👋 I'm Gustavo, a developer focused on **Java** and **web programming**
 - 🎓 **Education**: Technician in Informatics from Cedup HH, currently studying Systems Analysis and Development at UniSENAI (2nd semester).
 - 🧑‍💻 **Experience**: Java web developer at a local company.
 - 🌐 **Skills**:
-  - Languages: **Java**, **Node.js**
+  - Languages: **Java**, **Node.js**, **c#**
   - Web: **HTML/CSS**, **JavaScript**, **React.js**
   - Languages: Advanced English and intermediate Spanish
 - 🏆 **Projects**:
